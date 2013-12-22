@@ -5,6 +5,7 @@
 {"Name":"@lovrotheunicorn",	 "Aps":"0",	 "Gold":"0",	 "Skill":"1"},
 {"Name":"@AlternaBase",		 "Aps":"0",	 "Gold":"0",	 "Skill":"1"},
 {"Name":"@DimouDev",		 "Aps":"0",	 "Gold":"0",	 "Skill":"1"},
-{"Name":"@Cerebrum_4",		 "Aps":"1",	 "Gold":"0",	 "Skill":"1"},
-{"Name":"@XenoRaptor",		 "Aps":"0",	 "Gold":"0",	 "Skill":"1"}
+{"Name":"@sakano_dev",		 "Aps":"0",	 "Gold":"0",	 "Skill":"1"},
+{"Name":"@XenoRaptor",		 "Aps":"0",	 "Gold":"0",	 "Skill":"1"},
+{"Name":"@Cerebrum_4",		 "Aps":"1",	 "Gold":"0",	 "Skill":"1"}
 ]
