@@ -1,4 +1,6 @@
 [
-	{"Name":"@AD1337",		 "Aps":"0", 	"Gold":"0",	 "Skill":"0"},
-	{"Name":"@GuildOfPainters",	 "Aps":"0",	 "Gold":"0",	 "Skill":"0"}
+{"Name":"@AD1337",		 "Aps":"0", 	"Gold":"0",	 "Skill":"0"},
+{"Name":"@GuildOfPainters",	 "Aps":"0",	 "Gold":"0",	 "Skill":"0"}
+{"Name":"@jormungandev",	 "Aps":"0",	 "Gold":"0",	 "Skill":"1"}
+{"Name":"@XenoRaptor",	 "Aps":"0",	 "Gold":"0",	 "Skill":"1"}
 ]
