@@ -1,4 +1,5 @@
 [
+{"Name":"@rsdworker",		 "Aps":"0",	 "Gold":"0",	 "Skill":"0"},
 {"Name":"@MrBarisMBV",		 "Aps":"0",	 "Gold":"0",	 "Skill":"0"},
 {"Name":"@Alce_X",		 "Aps":"0",	 "Gold":"0",	 "Skill":"0"},
 {"Name":"@rasylvian",		 "Aps":"1",	 "Gold":"0",	 "Skill":"0"},
@@ -11,5 +12,5 @@
 {"Name":"@sakano_dev",		 "Aps":"0",	 "Gold":"0",	 "Skill":"1"},
 {"Name":"@XenoRaptor",		 "Aps":"0",	 "Gold":"0",	 "Skill":"1"},
 {"Name":"@evilflamingcat",	 "Aps":"0",	 "Gold":"0",	 "Skill":"0"},
-{"Name":"@Cerebrum_4",		 "Aps":"3",	 "Gold":"1",	 "Skill":"1"}
+{"Name":"@Cerebrum_4",		 "Aps":"3",	 "Gold":"2",	 "Skill":"1"}
 ]
