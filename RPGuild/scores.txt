@@ -7,6 +7,6 @@
 {"Name":"@DimouDev",		 "Aps":"0",	 "Gold":"0",	 "Skill":"1"},
 {"Name":"@sakano_dev",		 "Aps":"0",	 "Gold":"0",	 "Skill":"1"},
 {"Name":"@XenoRaptor",		 "Aps":"0",	 "Gold":"0",	 "Skill":"1"},
-{"Name":"@@evilflamingcat",	 "Aps":"0",	 "Gold":"0",	 "Skill":"0"},
+{"Name":"@evilflamingcat",	 "Aps":"0",	 "Gold":"0",	 "Skill":"0"},
 {"Name":"@Cerebrum_4",		 "Aps":"2",	 "Gold":"0",	 "Skill":"1"}
 ]
