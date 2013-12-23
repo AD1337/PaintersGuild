@@ -1,4 +1,5 @@
 [
+{"Name":"@butilka4",		 "Aps":"0",	 "Gold":"0",	 "Skill":"0"},
 {"Name":"@BorsiKaroly",		 "Aps":"0",	 "Gold":"1",	 "Skill":"0"},
 {"Name":"@Jellymentlegen",	 "Aps":"0",	 "Gold":"1",	 "Skill":"0"},
 {"Name":"@MrUnhandy",		 "Aps":"0",	 "Gold":"0",	 "Skill":"0"},
